@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hlenagard@gmail.com
+	name = Helion Le Nagard
